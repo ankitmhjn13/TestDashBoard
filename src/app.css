@@ -1,0 +1,21 @@
+.cardCompMargin{
+ margin-bottom: 5px;
+ margin-top: 5px;   
+}
+
+.elemBottomMargin{
+    margin-bottom: 10px;  
+}
+
+.lessPadding{
+    margin-top: 10px;
+    padding-top: 5px;
+}
+
+.shiftBottom{
+    margin-top: 35px;
+}
+
+.alignRight{
+    text-align: right;
+}
